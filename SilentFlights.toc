@@ -1,0 +1,8 @@
+## Interface: 90001
+## Title: SilentFlights
+## Author: Ellypse
+## Version: 2020.1
+## Notes: Silences and hides the Stargate effect during flights in Shadowlands.
+## DefaultState: Enabled
+
+SilentFlights.lua
